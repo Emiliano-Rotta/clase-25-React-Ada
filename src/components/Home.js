@@ -1,7 +1,7 @@
 import './Home.css';
 import { useState, useEffect, useContext } from 'react';
 import Card from "./Card"
-import Context from './context/Context';
+import Context from '../context/Context';
 
 
 function Home() {
